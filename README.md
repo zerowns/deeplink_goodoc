@@ -1,5 +1,4 @@
 ## deeplink_goodoc 실서버
-
 1. [병원찾기](goodoc://nearmap/hospitals)
 1. [약국찾기](goodoc://nearmap/pharmacys)
 1. [병원 내과 찾기](goodoc://nearmap/hospitals?departmentid=7)
@@ -15,6 +14,7 @@
 1. [캐스트 전체](goodoc://casts?categoryid=0)
 1. [캐스트 육아](goodoc://casts?categoryid=8)
 1. [캐스트 상세](goodoc://casts/1850)
+1. [캐스트-에디터](goodoc://editor/122)
 1. [검색-이벤트](goodoc://search/events)
 1. [검색-이벤트-눈성형](goodoc://search/events?keyword=눈성형)
 1. [검색-캐스트](goodoc://search/casts)
@@ -29,13 +29,12 @@
 1. [공지사항](goodoc://notices)
 1. [공지사항-특정공지](goodoc://notices/86)
 1. [웹뷰-인앱](goodoc://web?url=https://app.simplenote.com/p/Ybgbrr&in=true)
-1. [웹뷰-외부](goodoc://web?url=https://app.simplenote.com/p/Ybgbrr)
-1. [캐스트-에디터](goodoc://editor/122)
-1. [태그맵-DrPnt](goodoc://tagmap?tag=drpnt&titlelogo=http%3A%2F%2Fv2s3.goodoc.kr%2Fdrpnt%2Ffind_img_drpnt_logo.png&titleimage=http%3A%2F%2Fv2s3.goodoc.kr%2Fdrpnt%2Ffind_badge_ci.png&tagimage=http%3A%2F%2Fv2s3.goodoc.kr%2Fdrpnt%2Ffind_badge_ci_bottom.png)
 1. [웹뷰-인앱](goodoc://web?url=https://app.simplenote.com/p/Ybgbrr&in=true&isShowUrl=false)
+1. [웹뷰-외부](goodoc://web?url=https://app.simplenote.com/p/Ybgbrr)
+1. [태그맵-DrPnt](goodoc://tagmap?tag=drpnt&titlelogo=http%3A%2F%2Fv2s3.goodoc.kr%2Fdrpnt%2Ffind_img_drpnt_logo.png&titleimage=http%3A%2F%2Fv2s3.goodoc.kr%2Fdrpnt%2Ffind_badge_ci.png&tagimage=http%3A%2F%2Fv2s3.goodoc.kr%2Fdrpnt%2Ffind_badge_ci_bottom.png)
+
 
 ### deeplink_goodoc 개발서버
-
 1. [병원찾기](goodoc://nearmap/hospitals)
 1. [약국찾기](goodoc://nearmap/pharmacys)
 1. [병원 내과 찾기](goodoc://nearmap/hospitals?departmentid=7)
@@ -51,6 +50,7 @@
 1. [캐스트 전체](goodoc://casts?categoryid=0)
 1. [캐스트 육아](goodoc://casts?categoryid=8)
 1. [캐스트 상세](goodoc://casts/1786)
+1. [캐스트-에디터](goodoc://editor/122)
 1. [검색-이벤트](goodoc://search/events)
 1. [검색-이벤트-눈성형](goodoc://search/events?keyword=눈성형)
 1. [검색-캐스트](goodoc://search/casts)
@@ -65,11 +65,48 @@
 1. [공지사항](goodoc://notices)
 1. [공지사항-특정공지](goodoc://notices/86)
 1. [웹뷰-인앱](goodoc://web?url=https://zerowns.github.io/deeplink_goodoc&in=true)
-1. [웹뷰-외부](goodoc://web?url=https://zerowns.github.io/deeplink_goodoc)
-1. [캐스트-에디터](goodoc://editor/122)
-1. [태그맵-DrPnt](goodoc://tagmap?tag=drpnt&titlelogo=http%3A%2F%2Fv2s3.goodoc.kr%2Fdrpnt%2Ffind_img_drpnt_logo.png&titleimage=http%3A%2F%2Fv2s3.goodoc.kr%2Fdrpnt%2Ffind_badge_ci.png&tagimage=http%3A%2F%2Fv2s3.goodoc.kr%2Fdrpnt%2Ffind_badge_ci_bottom.png)
 1. [웹뷰-인앱](goodoc://web?url=https://zerowns.github.io/deeplink_goodoc&in=true&isShowUrl=false)
+1. [웹뷰-외부](goodoc://web?url=https://zerowns.github.io/deeplink_goodoc)
+1. [태그맵-DrPnt](goodoc://tagmap?tag=drpnt&titlelogo=http%3A%2F%2Fv2s3.goodoc.kr%2Fdrpnt%2Ffind_img_drpnt_logo.png&titleimage=http%3A%2F%2Fv2s3.goodoc.kr%2Fdrpnt%2Ffind_badge_ci.png&tagimage=http%3A%2F%2Fv2s3.goodoc.kr%2Fdrpnt%2Ffind_badge_ci_bottom.png)
+
 
 
 ## Tune DeepLink
-1. [이벤트 상세](https://atk-5.tlnk.io/serve?action=click&publisher_id=359110&site_id=139377&agency_id=284&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fevents%2F2932&site_id_android=139343)
+1. [병원찾기](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fnearmap%2Fhospitals&site_id_android=139343)
+1. [약국찾기](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fnearmap%2Fpharmacys&site_id_android=139343)
+1. [병원 내과 찾기](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fnearmap%2Fhospitals%3Fdepartmentid%3D7&site_id_android=139343)
+1. [병원 테마 찾기](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fnearmap%2Fhospitals%3Fthemeid%3D276&site_id_android=139343)
+1. [약국상세](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fpharmacys%2F185364&site_id_android=139343)
+1. [병원상세](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fhospitals%2F34514&site_id_android=139343)
+1. [병원상세-이벤트](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fhospitals%2F85108%3Ftab%3Devent&site_id_android=139343)
+1. [병원상세-후기](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fhospitals%2F85108%3Ftab%3Dreview&site_id_android=139343)
+1. [이벤트 눈 카테고리](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fevents%3Fcategoryid%3D76&site_id_android=139343)
+1. [이벤트 홈 카테고리](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fevents%3Fcategoryid%3D75&site_id_android=139343)
+1. [이벤트 상세](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fevents%2F2932&site_id_android=139343)
+1. [이벤트 기획전](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fevents%2Fpackages%2F27&site_id_android=139343)
+1. [캐스트 전체](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fcasts%3Fcategoryid%3D0&site_id_android=139343)
+1. [캐스트 육아](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fcasts%3Fcategoryid%3D8&site_id_android=139343)
+1. [캐스트 상세](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fcasts%2F1786&site_id_android=139343)
+1. [캐스트-에디터](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&invoke_url=goodoc%3A%2F%2Feditor%2F122&site_id_android=139343)
+1. [검색-이벤트](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fsearch%2Fevents&site_id_android=139343)
+1. [검색-이벤트-눈성형](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fsearch%2Fevents%3Fkeyword%3D%EB%88%88%EC%84%B1%ED%98%95&site_id_android=139343)
+1. [검색-캐스트](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fsearch%2Fcasts&site_id_android=139343)
+1. [검색-병원](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fsearch%2Fhospitals&site_id_android=139343)
+1. [마이페이지](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fmypage&site_id_android=139343)
+1. [마이페이지-선호병원](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fmypage%2Fhistory%2Fhospitals&site_id_android=139343)
+1. [마이페이지-찜이벤트](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fmypage%2Fhistory%2Fevents%2Flike&site_id_android=139343)
+1. [마이페이지-신청한이벤트](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fmypage%2Fhistory%2Fevents%2Frequest&site_id_android=139343)
+1. [마이페이지-캐스트스크랩](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fmypage%2Fhistory%2Fcasts%2Fscrap&site_id_android=139343)
+1. [마이페이지-캐스트구독](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fmypage%2Fhistory%2Fcasts%2Fsubscribe&site_id_android=139343)
+1. [마이페이지-최근본내역](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fmypage%2Frecently&site_id_android=139343)
+1. [공지사항](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fnotices&site_id_android=139343)
+1. [공지사항-특정공지](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fnotices%2F86&site_id_android=139343)
+1. [웹뷰-인앱](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&invoke_url=goodoc%3A%2F%2Fweb%3Furl%3Dhttps%3A%2F%2Fzerowns.github.io%2Fdeeplink_goodoc%26in%3Dtrue&site_id_android=139343)
+1. [웹뷰-인앱](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&invoke_url=goodoc%3A%2F%2Fweb%3Furl%3Dhttps%3A%2F%2Fzerowns.github.io%2Fdeeplink_goodoc%26in%3Dtrue%26isShowUrl%3Dfalse%0D%0A&site_id_android=139343)
+1. [웹뷰-외부](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&invoke_url=goodoc%3A%2F%2Fweb%3Furl%3Dhttps%3A%2F%2Fzerowns.github.io%2Fdeeplink_goodoc&site_id_android=139343)
+1. [태그맵-DrPnt](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&invoke_url=goodoc%3A%2F%2Ftagmap%3Ftag%3Ddrpnt%26titlelogo%3Dhttp%253A%252F%252Fv2s3.goodoc.kr%252Fdrpnt%252Ffind_img_drpnt_logo.png%26titleimage%3Dhttp%253A%252F%252Fv2s3.goodoc.kr%252Fdrpnt%252Ffind_badge_ci.png%26tagimage%3Dhttp%253A%252F%252Fv2s3.goodoc.kr%252Fdrpnt%252Ffind_badge_ci_bottom.png&site_id_android=139343)
+
+
+
+
+
