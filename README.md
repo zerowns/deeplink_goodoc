@@ -66,9 +66,9 @@
  - [실서버](goodoc://events/packages/27) ・ [개발서버](goodoc://events/packages/27) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fevents%2Fpackages%2F27&site_id_android=139343)
 
 ### 캐스트
-1. 캐스트 전체
+1. 전체
  - [실서버](goodoc://casts?categoryid=0) ・ [개발서버](goodoc://casts?categoryid=0) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fcasts%3Fcategoryid%3D0&site_id_android=139343)
-1. 캐스트 육아
+1. 육아 탭
  - [실서버](goodoc://casts?categoryid=8) ・ [개발서버](goodoc://casts?categoryid=8) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fcasts%3Fcategoryid%3D8&site_id_android=139343)
 1. 캐스트 상세
  - [실서버](goodoc://casts/1850) ・ [개발서버](goodoc://casts/1786) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fcasts%2F1786&site_id_android=139343)
@@ -76,35 +76,35 @@
  - [실서버](goodoc://editor/122) ・ [개발서버](goodoc://editor/122) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&invoke_url=goodoc%3A%2F%2Feditor%2F122&site_id_android=139343)
 
 ### 검색
-1. 검색-이벤트
+1. 이벤트 검색
  - [실서버](goodoc://search/events) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fsearch%2Fevents&site_id_android=139343)
-1. 검색-이벤트-눈성형
+1. 이벤트 검색, '눈성형' 키워드
  - [실서버](goodoc://search/events?keyword=눈성형) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fsearch%2Fevents%3Fkeyword%3D%EB%88%88%EC%84%B1%ED%98%95&site_id_android=139343)
-1. 검색-캐스트
+1. 캐스트 검색
  - [실서버](goodoc://search/casts) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fsearch%2Fcasts&site_id_android=139343)
-1. 검색-병원
+1. 병원 검색
  - [실서버](goodoc://search/hospitals) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fsearch%2Fhospitals&site_id_android=139343)
 
 ### 마이페이지
- 1. 마이페이지
+ 1. 메인
  - [실서버](goodoc://mypage) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fmypage&site_id_android=139343)
-1. 마이페이지-선호병원
+1. 선호병원 내역
  - [실서버](goodoc://mypage/history/hospitals) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fmypage%2Fhistory%2Fhospitals&site_id_android=139343)
-1. 마이페이지-찜이벤트
+1. 찜한 이벤트 내역
  - [실서버](goodoc://mypage/history/events/like) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fmypage%2Fhistory%2Fevents%2Flike&site_id_android=139343)
-1. 마이페이지-신청한이벤트
+1. 신청한 이벤트  내역
  - [실서버](goodoc://mypage/history/events/request) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fmypage%2Fhistory%2Fevents%2Frequest&site_id_android=139343)
-1. 마이페이지-캐스트스크랩
+1. 스크랩한 캐스트 내역
  - [실서버](goodoc://mypage/history/casts/scrap) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fmypage%2Fhistory%2Fcasts%2Fscrap&site_id_android=139343)
-1. 마이페이지-캐스트구독
+1. 구독한 캐스트 내역
  - [실서버](goodoc://mypage/history/casts/subscribe) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fmypage%2Fhistory%2Fcasts%2Fsubscribe&site_id_android=139343)
-1. 마이페이지-최근본내역
+1. 최근 본 내역
  - [실서버](goodoc://mypage/recently) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fmypage%2Frecently&site_id_android=139343)
 
 ### 설정
-1. 공지사항
+1. 메인
  - [실서버](goodoc://notices) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fnotices&site_id_android=139343)
-1. 공지사항-특정공지
+1. 특정공지
  - [실서버](goodoc://notices/86) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fnotices%2F86&site_id_android=139343)
 
 ### 웹뷰
