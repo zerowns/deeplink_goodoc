@@ -71,12 +71,12 @@
 웹뷰-외부 | [실서버](goodoc://web?url=https://app.simplenote.com/p/Ybgbrr) | [개발서버](goodoc://web?url=https://zerowns.github.io/deeplink_goodoc) | [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&invoke_url=goodoc%3A%2F%2Fweb%3Furl%3Dhttps%3A%2F%2Fzerowns.github.io%2Fdeeplink_goodoc&site_id_android=139343)
 태그맵-DrPnt | [실서버](goodoc://tagmap?tag=drpnt&titlelogo=http%3A%2F%2Fv2s3.goodoc.kr%2Fdrpnt%2Ffind_img_drpnt_logo.png&titleimage=http%3A%2F%2Fv2s3.goodoc.kr%2Fdrpnt%2Ffind_badge_ci.png&tagimage=http%3A%2F%2Fv2s3.goodoc.kr%2Fdrpnt%2Ffind_badge_ci_bottom.png) | [개발서버](goodoc://tagmap?tag=drpnt&titlelogo=http%3A%2F%2Fv2s3.goodoc.kr%2Fdrpnt%2Ffind_img_drpnt_logo.png&titleimage=http%3A%2F%2Fv2s3.goodoc.kr%2Fdrpnt%2Ffind_badge_ci.png&tagimage=http%3A%2F%2Fv2s3.goodoc.kr%2Fdrpnt%2Ffind_badge_ci_bottom.png) | [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&invoke_url=goodoc%3A%2F%2Ftagmap%3Ftag%3Ddrpnt%26titlelogo%3Dhttp%253A%252F%252Fv2s3.goodoc.kr%252Fdrpnt%252Ffind_img_drpnt_logo.png%26titleimage%3Dhttp%253A%252F%252Fv2s3.goodoc.kr%252Fdrpnt%252Ffind_badge_ci.png%26tagimage%3Dhttp%253A%252F%252Fv2s3.goodoc.kr%252Fdrpnt%252Ffind_badge_ci_bottom.png&site_id_android=139343)
  
-
-1. 병원찾기
+###병원약국찾기
+1. 내주변 병원찾기
  - [실서버](goodoc://nearmap/hospitals) ・ [개발서버](goodoc://nearmap/hospitals) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fnearmap%2Fhospitals&site_id_android=139343)
-1. 약국찾기
+1. 내주변 약국찾기
  - [실서버](goodoc://nearmap/pharmacys) ・ [개발서버](goodoc://nearmap/pharmacys) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fnearmap%2Fpharmacys&site_id_android=139343)
-1. 내과 병원찾기
+1. 내주변 **내과** 병원찾기
  - [실서버](goodoc://nearmap/hospitals?departmentid=7) ・ [개발서버](goodoc://nearmap/hospitals?departmentid=7) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fnearmap%2Fhospitals%3Fdepartmentid%3D7&site_id_android=139343) 
 1. 테마 병원찾기
  - [실서버](goodoc://nearmap/hospitals?themeid=276) ・ [개발서버](goodoc://nearmap/hospitals?themeid=276) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fnearmap%2Fhospitals%3Fthemeid%3D276&site_id_android=139343)
