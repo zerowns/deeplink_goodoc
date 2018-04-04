@@ -73,9 +73,9 @@
  
 ### 병원약국찾기
 1. 내주변 병원찾기
- - [실서버](goodoc://nearmap/hospitals) ・ [개발서버](goodoc://nearmap/hospitals) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fnearmap%2Fhospitals&site_id_android=139343)
+ - [실서버](goodoc://nearmap/hospitals) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fnearmap%2Fhospitals&site_id_android=139343)
 1. 내주변 약국찾기
- - [실서버](goodoc://nearmap/pharmacys) ・ [개발서버](goodoc://nearmap/pharmacys) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fnearmap%2Fpharmacys&site_id_android=139343)
+ - [실서버](goodoc://nearmap/pharmacys) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fnearmap%2Fpharmacys&site_id_android=139343)
 1. 내주변 **내과** 병원찾기
  - [실서버](goodoc://nearmap/hospitals?departmentid=7) ・ [개발서버](goodoc://nearmap/hospitals?departmentid=7) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fnearmap%2Fhospitals%3Fdepartmentid%3D7&site_id_android=139343) 
 1. 테마 병원찾기
@@ -95,7 +95,7 @@
 1. 이벤트 눈 카테고리
  - [실서버](goodoc://events?categoryid=76) ・ [개발서버](goodoc://events?categoryid=76) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fevents%3Fcategoryid%3D76&site_id_android=139343)
 1. 이벤트 홈 카테고리
- - [실서버](goodoc://events?categoryid=75) ・ [개발서버](goodoc://events?categoryid=75) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fevents%3Fcategoryid%3D75&site_id_android=139343)
+ - [실서버](goodoc://events?categoryid=75) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fevents%3Fcategoryid%3D75&site_id_android=139343)
 1. 이벤트 상세
  - [실서버](goodoc://events/2932) ・ [개발서버](goodoc://events/2932) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fevents%2F2932&site_id_android=139343)
 1. 이벤트 기획전
@@ -113,35 +113,35 @@
 
 ### 검색
 1. 검색-이벤트
- - [실서버](goodoc://search/events) ・ [개발서버](goodoc://search/events) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fsearch%2Fevents&site_id_android=139343)
+ - [실서버](goodoc://search/events) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fsearch%2Fevents&site_id_android=139343)
 1. 검색-이벤트-눈성형
- - [실서버](goodoc://search/events?keyword=눈성형) ・ [개발서버](goodoc://search/events?keyword=눈성형) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fsearch%2Fevents%3Fkeyword%3D%EB%88%88%EC%84%B1%ED%98%95&site_id_android=139343)
+ - [실서버](goodoc://search/events?keyword=눈성형) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fsearch%2Fevents%3Fkeyword%3D%EB%88%88%EC%84%B1%ED%98%95&site_id_android=139343)
 1. 검색-캐스트
- - [실서버](goodoc://search/casts) ・ [개발서버](goodoc://search/casts) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fsearch%2Fcasts&site_id_android=139343)
+ - [실서버](goodoc://search/casts) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fsearch%2Fcasts&site_id_android=139343)
 1. 검색-병원
- - [실서버](goodoc://search/hospitals) ・ [개발서버](goodoc://search/hospitals) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fsearch%2Fhospitals&site_id_android=139343)
+ - [실서버](goodoc://search/hospitals) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fsearch%2Fhospitals&site_id_android=139343)
 
 ### 마이페이지
  1. 마이페이지
- - [실서버](goodoc://mypage) ・ [개발서버](goodoc://mypage) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fmypage&site_id_android=139343)
+ - [실서버](goodoc://mypage) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fmypage&site_id_android=139343)
 1. 마이페이지-선호병원
- - [실서버](goodoc://mypage/history/hospitals) ・ [개발서버](goodoc://mypage/history/hospitals) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fmypage%2Fhistory%2Fhospitals&site_id_android=139343)
+ - [실서버](goodoc://mypage/history/hospitals) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fmypage%2Fhistory%2Fhospitals&site_id_android=139343)
 1. 마이페이지-찜이벤트
- - [실서버](goodoc://mypage/history/events/like) ・ [개발서버](goodoc://mypage/history/events/like) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fmypage%2Fhistory%2Fevents%2Flike&site_id_android=139343)
+ - [실서버](goodoc://mypage/history/events/like) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fmypage%2Fhistory%2Fevents%2Flike&site_id_android=139343)
 1. 마이페이지-신청한이벤트
- - [실서버](goodoc://mypage/history/events/request) ・ [개발서버](goodoc://mypage/history/events/request) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fmypage%2Fhistory%2Fevents%2Frequest&site_id_android=139343)
+ - [실서버](goodoc://mypage/history/events/request) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fmypage%2Fhistory%2Fevents%2Frequest&site_id_android=139343)
 1. 마이페이지-캐스트스크랩
- - [실서버](goodoc://mypage/history/casts/scrap) ・ [개발서버](goodoc://mypage/history/casts/scrap) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fmypage%2Fhistory%2Fcasts%2Fscrap&site_id_android=139343)
+ - [실서버](goodoc://mypage/history/casts/scrap) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fmypage%2Fhistory%2Fcasts%2Fscrap&site_id_android=139343)
 1. 마이페이지-캐스트구독
- - [실서버](goodoc://mypage/history/casts/subscribe) ・ [개발서버](goodoc://mypage/history/casts/subscribe) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fmypage%2Fhistory%2Fcasts%2Fsubscribe&site_id_android=139343)
+ - [실서버](goodoc://mypage/history/casts/subscribe) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fmypage%2Fhistory%2Fcasts%2Fsubscribe&site_id_android=139343)
 1. 마이페이지-최근본내역
- - [실서버](goodoc://mypage/recently) ・ [개발서버](goodoc://mypage/recently) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fmypage%2Frecently&site_id_android=139343)
+ - [실서버](goodoc://mypage/recently) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fmypage%2Frecently&site_id_android=139343)
 
 ### 설정
 1. 공지사항
- - [실서버](goodoc://notices) ・ [개발서버](goodoc://notices) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fnotices&site_id_android=139343)
+ - [실서버](goodoc://notices) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fnotices&site_id_android=139343)
 1. 공지사항-특정공지
- - [실서버](goodoc://notices/86) ・ [개발서버](goodoc://notices/86) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fnotices%2F86&site_id_android=139343)
+ - [실서버](goodoc://notices/86) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fnotices%2F86&site_id_android=139343)
 
 ### 웹뷰
 1. 웹뷰-인앱
