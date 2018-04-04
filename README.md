@@ -31,9 +31,7 @@
 1. [웹뷰-인앱](goodoc://web?url=https://app.simplenote.com/p/Ybgbrr&in=true)
 1. [웹뷰-외부](goodoc://web?url=https://app.simplenote.com/p/Ybgbrr)
 1. [캐스트-에디터](goodoc://editor/122)
-
 1. [태그맵-DrPnt](goodoc://tagmap?tag=drpnt&titlelogo=http%3A%2F%2Fv2s3.goodoc.kr%2Fdrpnt%2Ffind_img_drpnt_logo.png&titleimage=http%3A%2F%2Fv2s3.goodoc.kr%2Fdrpnt%2Ffind_badge_ci.png&tagimage=http%3A%2F%2Fv2s3.goodoc.kr%2Fdrpnt%2Ffind_badge_ci_bottom.png)
-
 1. [웹뷰-인앱](goodoc://web?url=https://app.simplenote.com/p/Ybgbrr&in=true&isShowUrl=false)
 
 # deeplink_goodoc 개발서버
@@ -69,7 +67,5 @@
 1. [웹뷰-인앱](goodoc://web?url=https://zerowns.github.io/deeplink_goodoc&in=true)
 1. [웹뷰-외부](goodoc://web?url=https://zerowns.github.io/deeplink_goodoc)
 1. [캐스트-에디터](goodoc://editor/122)
-
 1. [태그맵-DrPnt](goodoc://tagmap?tag=drpnt&titlelogo=http%3A%2F%2Fv2s3.goodoc.kr%2Fdrpnt%2Ffind_img_drpnt_logo.png&titleimage=http%3A%2F%2Fv2s3.goodoc.kr%2Fdrpnt%2Ffind_badge_ci.png&tagimage=http%3A%2F%2Fv2s3.goodoc.kr%2Fdrpnt%2Ffind_badge_ci_bottom.png)
-
 1. [웹뷰-인앱](goodoc://web?url=https://zerowns.github.io/deeplink_goodoc&in=true&isShowUrl=false)
