@@ -69,3 +69,7 @@
 1. [캐스트-에디터](goodoc://editor/122)
 1. [태그맵-DrPnt](goodoc://tagmap?tag=drpnt&titlelogo=http%3A%2F%2Fv2s3.goodoc.kr%2Fdrpnt%2Ffind_img_drpnt_logo.png&titleimage=http%3A%2F%2Fv2s3.goodoc.kr%2Fdrpnt%2Ffind_badge_ci.png&tagimage=http%3A%2F%2Fv2s3.goodoc.kr%2Fdrpnt%2Ffind_badge_ci_bottom.png)
 1. [웹뷰-인앱](goodoc://web?url=https://zerowns.github.io/deeplink_goodoc&in=true&isShowUrl=false)
+
+
+# Tune DeepLink
+1. [이벤트 상세](https://atk-5.tlnk.io/serve?action=click&publisher_id=359110&site_id=139377&agency_id=284&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fevents%2F2932&site_id_android=139343)
