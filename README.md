@@ -1,4 +1,4 @@
-deeplink_goodoc 실서버 | deeplink_goodoc 개발서버 | Tune DeepLink
+실서버 | 개발서버 | Tune
 ------- | -------- | --------
  [병원찾기](goodoc://nearmap/hospitals) | [병원찾기](goodoc://nearmap/hospitals) |  [병원찾기](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fnearmap%2Fhospitals&site_id_android=139343)
  [약국찾기](goodoc://nearmap/pharmacys) |  [약국찾기](goodoc://nearmap/pharmacys) |  [약국찾기](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fnearmap%2Fpharmacys&site_id_android=139343)
