@@ -79,7 +79,7 @@
 1. 내과 병원찾기
  - [실서버](goodoc://nearmap/hospitals?departmentid=7) ・ [개발서버](goodoc://nearmap/hospitals?departmentid=7) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fnearmap%2Fhospitals%3Fdepartmentid%3D7&site_id_android=139343) 
 1. 테마 병원찾기
- - [실서버](goodoc://nearmap/hospitals?themeid=276) ・ [개발서버](goodoc://nearmap/hospitals?themeid=276) | [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fnearmap%2Fhospitals%3Fthemeid%3D276&site_id_android=139343)
+ - [실서버](goodoc://nearmap/hospitals?themeid=276) ・ [개발서버](goodoc://nearmap/hospitals?themeid=276) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fnearmap%2Fhospitals%3Fthemeid%3D276&site_id_android=139343)
 1. 약국상세
  - [실서버](goodoc://pharmacys/185364) ・ [개발서버](goodoc://pharmacys/185364) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fpharmacys%2F185364&site_id_android=139343)
 1. 병원상세
