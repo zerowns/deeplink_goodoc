@@ -56,19 +56,19 @@
  - [실서버](goodoc://hospitals/34514?tab=review) ・ [개발서버](goodoc://hospitals/85108?tab=review) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fhospitals%2F85108%3Ftab%3Dreview&site_id_android=139343)
 
 ### 병원이벤트
-1. 이벤트 눈 카테고리
- - [실서버](goodoc://events?categoryid=76) ・ [개발서버](goodoc://events?categoryid=76) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fevents%3Fcategoryid%3D76&site_id_android=139343)
-1. 이벤트 홈 카테고리
+1. 홈 카테고리
  - [실서버](goodoc://events?categoryid=75) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fevents%3Fcategoryid%3D75&site_id_android=139343)
+1. 눈 카테고리
+ - [실서버](goodoc://events?categoryid=76) ・ [개발서버](goodoc://events?categoryid=76) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fevents%3Fcategoryid%3D76&site_id_android=139343)
 1. 이벤트 상세
  - [실서버](goodoc://events/2932) ・ [개발서버](goodoc://events/2932) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fevents%2F2932&site_id_android=139343)
 1. 이벤트 기획전
  - [실서버](goodoc://events/packages/27) ・ [개발서버](goodoc://events/packages/27) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fevents%2Fpackages%2F27&site_id_android=139343)
 
 ### 캐스트
-1. 전체
+1. 전체 카테고리
  - [실서버](goodoc://casts?categoryid=0) ・ [개발서버](goodoc://casts?categoryid=0) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fcasts%3Fcategoryid%3D0&site_id_android=139343)
-1. 육아 탭
+1. 육아 카테고리
  - [실서버](goodoc://casts?categoryid=8) ・ [개발서버](goodoc://casts?categoryid=8) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fcasts%3Fcategoryid%3D8&site_id_android=139343)
 1. 캐스트 상세
  - [실서버](goodoc://casts/1850) ・ [개발서버](goodoc://casts/1786) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fcasts%2F1786&site_id_android=139343)
