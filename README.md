@@ -115,3 +115,11 @@
 1. 웹뷰-외부
  - [실서버](goodoc://web?url=https://app.simplenote.com/p/Ybgbrr) ・ [개발서버](goodoc://web?url=https://zerowns.github.io/deeplink_goodoc) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&invoke_url=goodoc%3A%2F%2Fweb%3Furl%3Dhttps%3A%2F%2Fzerowns.github.io%2Fdeeplink_goodoc&site_id_android=139343)
 
+
+
+
+
+
+[테스트](https://atk-5.tlnk.io/serve?action=click&agency_id=284&campaign_id_android=436195&campaign_id_ios=436235&destination_id_android=501456&destination_id_ios=501673&invoke_url_android=goodoc://?ViewMain=EventZone&invoke_url_ios=goodoc://?ViewMain=EventZone&my_campaign=180523&my_publisher=madup_iOS_2&publisher_id=358785&site_id_android=139343&site_id_ios=139377&sub_adgroup={sub_adgroup}&sub_publisher={sub_publisher})
+
+
