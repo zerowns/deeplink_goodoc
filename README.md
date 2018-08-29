@@ -67,13 +67,13 @@
 
 ### 캐스트
 1. 전체 카테고리
- - [실서버](goodoc://casts?categoryid=0) ・ [개발서버](goodoc://casts?categoryid=0) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fcasts%3Fcategoryid%3D0&site_id_android=139343)
+ - [실서버](goodoc://casts?categoryid=0&Funnel=Woody_TEST_01) ・ [개발서버](goodoc://casts?categoryid=0) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fcasts%3Fcategoryid%3D0&site_id_android=139343)
 1. 육아 카테고리
- - [실서버](goodoc://casts?categoryid=8) ・ [개발서버](goodoc://casts?categoryid=8) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fcasts%3Fcategoryid%3D8&site_id_android=139343)
+ - [실서버](goodoc://casts?categoryid=8&Funnel=Woody_TEST_02) ・ [개발서버](goodoc://casts?categoryid=8) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fcasts%3Fcategoryid%3D8&site_id_android=139343)
 1. 캐스트 상세
- - [실서버](goodoc://casts/1850) ・ [개발서버](goodoc://casts/1786) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fcasts%2F1786&site_id_android=139343)
+ - [실서버](goodoc://casts/1850&Funnel=Woody_TEST_03) ・ [개발서버](goodoc://casts/1786) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&ref_id=%{imp_id}&ios_ifa=%{ios_ifa}&google_aid=%{google_aid}&sub_adgroup=%{sub_adgroup}&sub_ad=%{sub_ad}&invoke_url=goodoc%3A%2F%2Fcasts%2F1786&site_id_android=139343)
 1. 캐스트 에디터
- - [실서버](goodoc://editor/122) ・ [개발서버](goodoc://editor/122) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&invoke_url=goodoc%3A%2F%2Feditor%2F122&site_id_android=139343)
+ - [실서버](goodoc://editor/122&Funnel=Woody_TEST_04) ・ [개발서버](goodoc://editor/122) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&invoke_url=goodoc%3A%2F%2Feditor%2F122&site_id_android=139343)
 
 ### 검색
 1. 이벤트 검색
