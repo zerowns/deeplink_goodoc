@@ -114,3 +114,11 @@
  - [실서버](goodoc://web?url=https://app.simplenote.com/p/Ybgbrr&in=true&isShowUrl=false) ・ [개발서버](goodoc://web?url=https://zerowns.github.io/deeplink_goodoc&in=true&isShowUrl=false) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&invoke_url=goodoc%3A%2F%2Fweb%3Furl%3Dhttps%3A%2F%2Fzerowns.github.io%2Fdeeplink_goodoc%26in%3Dtrue%26isShowUrl%3Dfalse%0D%0A&site_id_android=139343)
 1. 웹뷰-외부
  - [실서버](goodoc://web?url=https://app.simplenote.com/p/Ybgbrr) ・ [개발서버](goodoc://web?url=https://zerowns.github.io/deeplink_goodoc) ・ [Tune](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&invoke_url=goodoc%3A%2F%2Fweb%3Furl%3Dhttps%3A%2F%2Fzerowns.github.io%2Fdeeplink_goodoc&site_id_android=139343)
+
+
+
+
+
+[TEST01](https://atk-5.tlnk.io/serve?action=click&campaign_id_android=436195&campaign_id_ios=436235&destination_id_android=501456&destination_id_ios=501673&publisher_id=361169&site_id_android=139343&site_id_ios=139377&my_campaign=180709&my_keyword=hospital_detail&invoke_url_android=goodoc%3A%2F%2Fhospitals%2F164529%3Ftab%3Dreview%26Funnel%3DWOODY_TEST_01&invoke_url_ios=goodoc%3A%2F%2Fhospitals%2F164529%3Ftab%3Dreview%26Funnel%3DWOODY_TEST_02&my_adgroup=review_list-text_more&my_publisher=164529&my_site=109953&my_placement=1&sub1=e30fead373bae9430cd6e3d3385fb63b&sub2=1da0e575-ba13-43f6-b98e-e1255d7b670f)
+
+[TEST02](https://atk-5.tlnk.io/serve?action=click&campaign_id_android=436195&campaign_id_ios=436235&destination_id_android=501456&destination_id_ios=501673&publisher_id=361169&site_id_android=139343&site_id_ios=139377&my_campaign=180709&my_keyword=hospital_detail&invoke_url_android=goodoc%3A%2F%2Fhospitals%2F164529%3Ftab%3Dreview%26Funnel%3DWOODY_TEST_02WOODY_TEST_02&invoke_url_ios=goodoc%3A%2F%2Fhospitals%2F164529%3Ftab%3Dreview%26Funnel%3DWOODY_TEST_02&my_adgroup=review_list-text_more&my_publisher=164529&my_site=109953&my_placement=1&sub1=e30fead373bae9430cd6e3d3385fb63b&sub2=1da0e575-ba13-43f6-b98e-e1255d7b670f)
