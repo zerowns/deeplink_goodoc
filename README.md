@@ -119,6 +119,6 @@
 
 
 
-[TEST01](goodoc://nearmap/pharmacys?work=1)
+[TEST01](goodoc://nearmap/pharmacys?work=on)
 
-[TEST02](goodoc://nearmap/hospitals?work=1)
+[TEST02](goodoc://nearmap/hospitals?work=on)
