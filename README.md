@@ -119,6 +119,6 @@
 
 
 
-[TEST01](goodoc://nearmap/pharmacys?work=on)
+[영업중 약국](goodoc://nearmap/pharmacys?work=on)
 
-[TEST02](goodoc://nearmap/hospitals?work=on)
+[진료중 병원](goodoc://nearmap/hospitals?work=on)
