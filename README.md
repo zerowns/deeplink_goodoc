@@ -33,6 +33,11 @@
  [웹뷰-인앱](goodoc://web?url=https://app.simplenote.com/p/Ybgbrr&in=true&isShowUrl=false) |  [웹뷰-인앱](goodoc://web?url=https://zerowns.github.io/deeplink_goodoc&in=true&isShowUrl=false) |  [웹뷰-인앱](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&invoke_url=goodoc%3A%2F%2Fweb%3Furl%3Dhttps%3A%2F%2Fzerowns.github.io%2Fdeeplink_goodoc%26in%3Dtrue%26isShowUrl%3Dfalse%0D%0A&site_id_android=139343)
  [웹뷰-외부](goodoc://web?url=https://app.simplenote.com/p/Ybgbrr) |  [웹뷰-외부](goodoc://web?url=https://zerowns.github.io/deeplink_goodoc) |  [웹뷰-외부](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&invoke_url=goodoc%3A%2F%2Fweb%3Furl%3Dhttps%3A%2F%2Fzerowns.github.io%2Fdeeplink_goodoc&site_id_android=139343)
  [태그맵-DrPnt](goodoc://tagmap?tag=drpnt&titlelogo=http%3A%2F%2Fv2s3.goodoc.kr%2Fdrpnt%2Ffind_img_drpnt_logo.png&titleimage=http%3A%2F%2Fv2s3.goodoc.kr%2Fdrpnt%2Ffind_badge_ci.png&tagimage=http%3A%2F%2Fv2s3.goodoc.kr%2Fdrpnt%2Ffind_badge_ci_bottom.png) |  [태그맵-DrPnt](goodoc://tagmap?tag=drpnt&titlelogo=http%3A%2F%2Fv2s3.goodoc.kr%2Fdrpnt%2Ffind_img_drpnt_logo.png&titleimage=http%3A%2F%2Fv2s3.goodoc.kr%2Fdrpnt%2Ffind_badge_ci.png&tagimage=http%3A%2F%2Fv2s3.goodoc.kr%2Fdrpnt%2Ffind_badge_ci_bottom.png) |  [태그맵-DrPnt](https://atk-5.tlnk.io/serve?action=click&publisher_id=359525&site_id=139377&invoke_url=goodoc%3A%2F%2Ftagmap%3Ftag%3Ddrpnt%26titlelogo%3Dhttp%253A%252F%252Fv2s3.goodoc.kr%252Fdrpnt%252Ffind_img_drpnt_logo.png%26titleimage%3Dhttp%253A%252F%252Fv2s3.goodoc.kr%252Fdrpnt%252Ffind_badge_ci.png%26tagimage%3Dhttp%253A%252F%252Fv2s3.goodoc.kr%252Fdrpnt%252Ffind_badge_ci_bottom.png&site_id_android=139343)
+[후기존 - 진입](goodoc://reviews) |  [후기존 - 진입](goodoc://reviews) |  [--](goodoc://reviews)
+[후기존 진입후 상세이동](goodoc://reviews?reviewid=110588) |  [--](goodoc://reviews) |  [--](goodoc://reviews)
+[후기존 진입후 상세이동(event)](goodoc://reviews?reviewid=110588&entryType=event) |  [--](goodoc://reviews) |  [--](goodoc://reviews)
+[후기상세](goodoc://reviews/110588) |  [--](goodoc://reviews) |  [--](goodoc://reviews)
+[후기상세(event)](goodoc://reviews/110588?entryType=event) |  [--](goodoc://reviews) |  [--](goodoc://reviews)
 
 
 ### 병원약국찾기
