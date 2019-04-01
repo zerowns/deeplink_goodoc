@@ -11,8 +11,9 @@
 <body style="margin: 0; overflow: hidden;">
 
     <input type="text" id="postcode" placeholder="우편번호" style="width:50%;"><br>
-    <input type="text" id="address"  placeholder="주소" style="width:50%;"><br>
-    <input type="text" id="detailAddress" placeholder="상세주소" style="width:50%;">
+    <input type="text" id="address" placeholder="주소" style="width:50%;"><br>
+    <input type="text" id="detailAddress" placeholder="상세주소" style="width:50%;"><br>
+    <input type="button" onclick="sendData()" value="주소확인"><br>
 
     <div id="layer"
         style="position: fixed; width: 100%; height: 100%; min-height: 100%; margin: 0; z-index: 1; -webkit-overflow-scrolling: touch">
@@ -20,6 +21,27 @@
 
     <script src="https://ssl.daumcdn.net/dmaps/map_js_init/postcode.v2.js"></script>
     <script>
+        function sendData() {
+            var addressInfo = {
+                zonecode: document.getElementById('postcode').value,
+                fullRoadAddr: document.getElementById("address").value,
+                jibunAddress: document.getElementById("detailAddress").value
+            };
+            console.log(addressInfo)
+            alert(JSON.stringify(addressInfo));
+            if (window.CertifyWebInterface) {
+                window.CertifyWebInterface.getUserAuth(JSON.stringify(
+                    addressInfo));
+            } else {
+                try {
+                    window.webkit.messageHandlers.userAuthHandler
+                        .postMessage(addressInfo);
+                } catch (e) {
+                    console.log(e)
+                }
+            }
+        }
+
         document.addEventListener("DOMContentLoaded", function (e) {
             var layer = document.getElementById('layer');
             window.setTimeout(function () {
@@ -47,26 +69,10 @@
                             fullRoadAddr += extraRoadAddr;
                         }
 
-                        var addressInfo = {
-                            zonecode: data.zonecode,
-                            fullRoadAddr: fullRoadAddr,
-                            jibunAddress: data.jibunAddress
-                        };
 
-                        document.getElementById('postcode').value = addressInfo.zonecode;
-                        document.getElementById("address").value = addressInfo.fullRoadAddr;
+                        document.getElementById('postcode').value = data.zonecode;
+                        document.getElementById("address").value = fullRoadAddr;
 
-                        if (window.CertifyWebInterface) {
-                            window.CertifyWebInterface.getUserAuth(JSON.stringify(
-                                addressInfo));
-                        } else {
-                            try {
-                                window.webkit.messageHandlers.userAuthHandler
-                                    .postMessage(addressInfo);
-                            } catch (e) {
-                                console.log(e)
-                            }
-                        }
                     },
                     width: '100%',
                     height: '100%',
