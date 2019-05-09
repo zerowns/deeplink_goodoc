@@ -74,7 +74,8 @@
             var addressInfo = {
                 zonecode: document.getElementById('postcode').value,
                 roadAddress: document.getElementById("address").value,
-                detailAddress: document.getElementById("detailAddress").value
+                detailAddress: document.getElementById("detailAddress").value,
+                type: "address"
             };
             console.log(addressInfo)
             alert(JSON.stringify(addressInfo));
