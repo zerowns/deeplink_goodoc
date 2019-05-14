@@ -84,8 +84,7 @@
                     addressInfo));
             } else {
                 try {
-                    window.webkit.messageHandlers.userAuthHandler
-                        .postMessage(addressInfo);
+                    window.webkit.messageHandlers.commonHandler.postMessage(addressInfo);
                 } catch (e) {
                     console.log(e)
                 }
