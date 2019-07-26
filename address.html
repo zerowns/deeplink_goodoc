@@ -54,7 +54,8 @@
                 document.getElementById('postcode').value = data.zonecode;
                 document.getElementById("address").value = roadAddress;
 
-                document.getElementById("addressDiv").style.display = "inline";
+                sendData()
+                // document.getElementById("addressDiv").style.display = "inline";
 
             },
             width: '100%',
@@ -67,10 +68,10 @@
         }
 
         function sendData() {
-            if (document.getElementById("detailAddress").value == "") {
-                alert("상세 주소를 입력해주세요");
-                return
-            }
+            // if (document.getElementById("detailAddress").value == "") {
+            //     alert("상세 주소를 입력해주세요");
+            //     return
+            // }
             var addressInfo = {
                 zonecode: document.getElementById('postcode').value,
                 roadAddress: document.getElementById("address").value,
@@ -85,6 +86,16 @@
             } else {
                 try {
                     window.webkit.messageHandlers.commonHandler.postMessage(addressInfo);
+                } catch (e) {
+                    console.log(e)
+                }
+            }
+
+            if (window.CloseWebInterface) {
+                window.CloseWebInterface.close();
+            } else {
+                try{
+                    window.webkit.messageHandlers.closeHandler.postMessage("");
                 } catch (e) {
                     console.log(e)
                 }
