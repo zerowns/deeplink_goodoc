@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Daum Post</title>
+    <title>주소찾기</title>
 </head>
 
 <body style="margin: 0; overflow: hidden;">
@@ -79,7 +79,7 @@
                 type: "address"
             };
             console.log(addressInfo)
-            alert(JSON.stringify(addressInfo));
+            //alert(JSON.stringify(addressInfo));
             if (window.CertifyWebInterface) {
                 window.CertifyWebInterface.getUserAuth(JSON.stringify(
                     addressInfo));
