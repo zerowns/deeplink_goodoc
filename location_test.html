@@ -33,10 +33,10 @@
             
 
             if (window.WebLocationInterface) {
-                window.WebLocationInterface.appLocation()
+                window.WebLocationInterface.getPermission()
             } else {
                 try {
-                    window.webkit.messageHandlers.appLocation.postMessage("yes")
+                    window.webkit.messageHandlers.locationHandler.postMessage("")
                 } catch (e) {
                     console.log(e)
                 }
