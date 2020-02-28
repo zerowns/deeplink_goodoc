@@ -8,7 +8,7 @@
     <title>주소찾기</title>
 </head>
 
-<body style="margin: 0;">
+<body style="margin: 0; overflow: hidden;">
 
     <div id="addressDiv">
         <input type="text" id="postcode" placeholder="우편번호" style="width:50%;"><br>
@@ -30,7 +30,19 @@
         function sendData() {
 
             var keyword = document.getElementById("appLocation").value;
-            alert(keyword);
+            
+
+            if (window.WebLocationInterface) {
+                alert(window.WebLocationInterface.appLocation())
+            } else {
+                try {
+                    alert(window.webkit.messageHandlers.appLocation())
+                } catch (e) {
+                    console.log(e)
+                }
+            }
+
+
             // if (document.getElementById("detailAddress").value == "") {
             //     alert("상세 주소를 입력해주세요");
             //     return
