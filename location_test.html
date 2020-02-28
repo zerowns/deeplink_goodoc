@@ -15,7 +15,7 @@
         <input type="text" id="address" placeholder="주소" style="width:50%;"><br>
         <input type="text" id="detailAddress" placeholder="상세주소" style="width:50%;"><br>
         <input type="button" id="button" onclick="showSearch()" value="다시찾기">
-        <input type="button" id="button" onclick="sendData()" value="권한확인"><br>
+        <input type="button" id="button" onclick="sendData()" value="권한확인2"><br>
 
     </div>
 
@@ -36,7 +36,7 @@
                 window.WebLocationInterface.appLocation()
             } else {
                 try {
-                    window.webkit.messageHandlers.appLocation.postMessage()
+                    window.webkit.messageHandlers.appLocation.postMessage("yes")
                 } catch (e) {
                     console.log(e)
                 }
