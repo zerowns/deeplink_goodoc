@@ -15,7 +15,7 @@
         <input type="text" id="address" placeholder="주소" style="width:50%;"><br>
         <input type="text" id="detailAddress" placeholder="상세주소" style="width:50%;"><br>
         <input type="button" id="button" onclick="showSearch()" value="다시찾기">
-        <input type="button" id="button" onclick="sendData()" value="권한확인5"><br>
+        <input type="button" id="button" onclick="sendData()" value="권한확인6"><br>
 
     </div>
 
@@ -23,7 +23,7 @@
     <script>
         
         function showToast(userData){
-            alert(userData);
+            alert(JSON.parse(userData));
             alert(JSON.stringify(userData));
             return
         }
