@@ -11,11 +11,11 @@
 <body style="margin: 0; overflow: hidden;">
 
     <div id="addressDiv">
-        <input type="text" id="postcode" placeholder="우편번호" style="width:50%;"><br>
+<!--         <input type="text" id="postcode" placeholder="우편번호" style="width:50%;"><br>
         <input type="text" id="address" placeholder="주소" style="width:50%;"><br>
-        <input type="text" id="detailAddress" placeholder="상세주소" style="width:50%;"><br>
-        <input type="button" id="button" onclick="sendData()" value="유저정보">
-        <input type="button" id="button" onclick="moveLogin()" value="로그인이동"><br>
+        <input type="text" id="detailAddress" placeholder="상세주소" style="width:50%;"><br> -->
+        <input type="button" id="button" onclick="sendData()" value="유저정보1">
+        <input type="button" id="button" onclick="moveLogin()" value="로그인이동1"><br>
 
     </div>
 
@@ -27,7 +27,7 @@
                 window.WebLocationInterface.moveLogin()
             } else {
                 try {
-                    window.webkit.messageHandlers.locationHandler.postMessage("")
+                    window.webkit.messageHandlers.moveLoginHandler.postMessage("")
                 } catch (e) {
                     console.log(e)
                 }
@@ -73,7 +73,7 @@
                 
             } else {
                 try {
-                    window.webkit.messageHandlers.locationHandler.postMessage("")
+                    window.webkit.messageHandlers.userInfoHandler.postMessage("")
                 } catch (e) {
                     console.log(e)
                 }
