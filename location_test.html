@@ -14,14 +14,26 @@
         <input type="text" id="postcode" placeholder="우편번호" style="width:50%;"><br>
         <input type="text" id="address" placeholder="주소" style="width:50%;"><br>
         <input type="text" id="detailAddress" placeholder="상세주소" style="width:50%;"><br>
-        <input type="button" id="button" onclick="showSearch()" value="다시찾기">
-        <input type="button" id="button" onclick="sendData()" value="알림설정"><br>
+        <input type="button" id="button" onclick="sendData()" value="유저정보">
+        <input type="button" id="button" onclick="moveLogin()" value="로그인이동"><br>
 
     </div>
 
 
     <script>
      
+        function moveLogin() {
+            if (window.WebLocationInterface) {
+                window.WebLocationInterface.moveLogin()
+            } else {
+                try {
+                    window.webkit.messageHandlers.locationHandler.postMessage("")
+                } catch (e) {
+                    console.log(e)
+                }
+            }
+        }
+        
         function showToast(userData){
             alert("왔음")
             alert(userData);
@@ -55,7 +67,7 @@
                     alert(user);
                 }
                 else{
-                    alert("(로그인 유저) 다시시도");
+                    alert("로그인 안했어");
                 }
 
                 
