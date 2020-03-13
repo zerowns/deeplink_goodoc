@@ -39,8 +39,20 @@
             // var keyword = document.getElementById("appLocation").value;
             
 
+//             if (window.WebLocationInterface) {
+//                 window.WebLocationInterface.getPermission()
+//             } else {
+//                 try {
+//                     window.webkit.messageHandlers.locationHandler.postMessage("")
+//                 } catch (e) {
+//                     console.log(e)
+//                 }
+//             }
+            
             if (window.WebLocationInterface) {
-                window.WebLocationInterface.getPermission()
+                var user = window.WebLocationInterface.getUserInfo()
+                alert(user)
+                
             } else {
                 try {
                     window.webkit.messageHandlers.locationHandler.postMessage("")
