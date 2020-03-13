@@ -14,7 +14,7 @@
 <!--         <input type="text" id="postcode" placeholder="우편번호" style="width:50%;"><br>
         <input type="text" id="address" placeholder="주소" style="width:50%;"><br>
         <input type="text" id="detailAddress" placeholder="상세주소" style="width:50%;"><br> -->
-        <input type="button" id="button" onclick="sendData()" value="유저정보1">
+        <input type="button" id="button" onclick="sendData()" value="유저정보2">
         <input type="button" id="button" onclick="moveLogin()" value="로그인이동1"><br>
 
     </div>
@@ -73,7 +73,14 @@
                 
             } else {
                 try {
-                    window.webkit.messageHandlers.userInfoHandler.postMessage("")
+                   var user = window.webkit.messageHandlers.userInfoHandler.postMessage("")
+                    
+                   if(user){
+                        alert(user);
+                   }else {
+                        alert("로그인 안했어");
+                   }
+
                 } catch (e) {
                     console.log(e)
                 }
