@@ -51,7 +51,7 @@
             
             if (window.WebLocationInterface) {
                 var user = window.WebLocationInterface.getUserInfo()
-                alert(user)
+                alert(JSON.parse(user));
                 
             } else {
                 try {
