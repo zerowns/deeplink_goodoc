@@ -34,10 +34,8 @@
             }
         }
         
-        function showToast(userData){
-            alert("왔음")
-//             alert(userData);
-//            alert(JSON.stringify(userData));
+        function checkLogin(userData){
+            alert("여기서 userData ")
             return userData
         }
         
@@ -53,19 +51,6 @@
         }
 
         function sendData() {
-
-            // var keyword = document.getElementById("appLocation").value;
-            
-
-//             if (window.WebLocationInterface) {
-//                 window.WebLocationInterface.getPermission()
-//             } else {
-//                 try {
-//                     window.webkit.messageHandlers.locationHandler.postMessage("")
-//                 } catch (e) {
-//                     console.log(e)
-//                 }
-//             }
             
             if (window.WebLocationInterface) {
                 var user = window.WebLocationInterface.getUserInfo()
@@ -79,14 +64,7 @@
                 
             } else {
                 try {
-                   var user = window.webkit.messageHandlers.userInfoHandler.postMessage("")
-                    
-                   if(user){
-                        alert(user);
-                   }else {
-                        alert("로그인 안했어");
-                   }
-
+                   window.webkit.messageHandlers.userInfoHandler.postMessage("")
                 } catch (e) {
                     console.log(e)
                 }
