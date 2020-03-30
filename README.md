@@ -132,5 +132,6 @@
 [진료중 병원](goodoc://nearmap/hospitals?work=on)
 
 [태그맵 숏링크 테스트](https://goodoc.onelink.me/7srm/ff807ceb)
+
 [태그맵 롱링크 테스트](https://goodoc.onelink.me/7srm?pid=kakao_goodoc&c=kakao_goodoc&af_adset=greenscross&af_ad=drpnt&af_click_lookback=7d&af_dp=goodoc%3A%2F%2Ftagmap%3Ftag%3Ddrpnt%26titlelogo%3Dhttps%253a%252f%252fasset.goodoc.kr%252fimages%252ffind_img_drpnt_logo.png%26titleimage%3Dhttps%253a%252f%252fasset.goodoc.kr%252fimages%252ffind_badge_ci.png%26tagimage%3Dhttps%253a%252f%252fasset.goodoc.kr%252fimages%252ffind_badge_ci_bottom.png)
 
