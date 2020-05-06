@@ -25,8 +25,11 @@
      
         function clearCache(){
             if (window.WebLocationInterface) {
-                window.WebLocationInterface.cacheClear()
-            } 
+                window.WebLocationInterface.clearCache()
+                console.log("완료")
+            }else{
+                console.log("미완")
+            }
         }
         
         function moveLogin() {
