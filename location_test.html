@@ -16,13 +16,21 @@
         <input type="text" id="detailAddress" placeholder="상세주소" style="width:50%;"><br> -->
         <input type="button" id="button" onclick="sendData()" value="유저정보6">
         <input type="button" id="button" onclick="moveLogin()" value="로그인이동1">
-        <input type="button" id="button" onclick="clearCache()" value="캐시삭제"><br>
+        <input type="button" id="button" onclick="clearCache()" value="캐시삭제">
+        <input type="button" id="button" onclick="refreshToken()" value="리프레시 토큰"><br>
 
     </div>
 
 
     <script>
      
+        function refreshToken(){
+            if (window.WebLocationInterface) {
+                window.WebLocationInterface.refreshToken()
+                console.log("요청완료")
+            }
+        }
+        
         function clearCache(){
             if (window.WebLocationInterface) {
                 window.WebLocationInterface.clearCache()
@@ -47,6 +55,10 @@
         function checkLogin(userData){
             alert("여기서 userData ")
             return userData
+        }
+        
+        function onNewToken(){
+            alert("갱신완료요")
         }
         
         function showToast(){
