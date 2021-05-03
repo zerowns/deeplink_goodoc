@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>웹 테스트</title>
+</head>
+
+<body style="margin: 0; overflow: hidden;">
+
+    <div id="addressDiv">
+        <input type="text" id="address" placeholder="주소" style="width:50%;"><br>
+        <input type="text" id="detailAddress" placeholder="상세주소" style="width:50%;"><br> -->
+        <input type="button" id="button" onclick="sendData()" value="유저정보6">
+        <input type="button" id="button" onclick="addToCart()" value="카트">
+        <input type="button" id="button" onclick="clearCache()" value="캐시삭제">
+        <input type="button" id="button" onclick="refreshToken()" value="리프레시 토큰"><br>
+        <input type="button" id="button" onclick="moveHospital()" value="병원이동">
+        <input type="button" id="button" onclick="moveEvent()" value="이벤트이동">
+        <input type="button" id="button" onclick="moveLogin()" value="로그인이동">
+
+    </div>
+
+
+    <script>
+        
+        function moveHospital(){
+            if (window.MoveInterface) {
+                var moveItem = {
+                    id: "203038",
+                    type: "hospitalDetail"
+                };
+                window.MoveInterface.moveScreen(JSON.stringify(moveItem))
+            }
+        }
+        
+        function onResume(){
+            console.log('onResume')
+        }
+        
+        function onUpdateCartCount(){
+            console.log('onUpdateCartCount')
+        }
+        
+        function addToCart(){
+            if (window.InAppInterface) {
+                window.InAppInterface.addToCart('1234')
+            }
+        }
+        
+        function refreshToken(){
+            if (window.WebLocationInterface) {
+                window.WebLocationInterface.refreshToken()
+                console.log("요청완료")
+            }
+        }
+        
+        function clearCache(){
+            if (window.WebLocationInterface) {
+                window.WebLocationInterface.clearCache()
+                console.log("완료")
+            }else{
+                console.log("미완")
+            }
+        }
+        
+        function moveLogin() {
+            if (window.WebLocationInterface) {
+                window.WebLocationInterface.moveLogin()
+            } else {
+                try {
+                    window.webkit.messageHandlers.moveLoginHandler.postMessage("")
+                } catch (e) {
+                    console.log(e)
+                }
+            }
+        }
+        
+        function checkLogin(userData){
+            alert("여기서 userData ")
+            return userData
+        }
+        
+        function onNewToken(){
+            alert("갱신완료요")
+        }
+        
+        function showToast(){
+            alert("왔음")
+//            alert(JSON.stringify(userData));
+            return "데이터확인"
+        }
+        
+        function onResume(){
+            alert("onResume")
+        }
+        
+
+        function showSearch() {
+            document.getElementById("addressDiv").style.display = "none";
+            daumPost.embed(layer);
+        }
+
+        function sendData() {
+            
+            if (window.WebLocationInterface) {
+                var user = window.WebLocationInterface.getUserInfo()
+                if(user){
+                    alert(user);
+                }
+                else{
+                    alert("로그인 안했어");
+                }
+
+                
+            } else {
+                try {
+                   window.webkit.messageHandlers.userInfoHandler.postMessage("")
+                } catch (e) {
+                    console.log(e)
+                }
+            }
+        }
+
+    </script>
+</body>
+
+</html>
